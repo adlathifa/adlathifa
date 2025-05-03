@@ -1,4 +1,5 @@
-##👋 Hi, I’m Annisa Aufa Dina Lathifa
+### 👋 Hi, I’m Annisa Aufa Dina Lathifa
+
 📊 Aspiring Data Analyst | 💡 Passionate about turning data into actionable insights<br/>
 🌱 Currently diving into Marketing Analytics and improving skills in Power BI, Excel, SQL, and Looker Studio<br/>
 📈 Love discovering patterns in customer behavior and market trends<br/>
